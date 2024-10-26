@@ -62,7 +62,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linktree logo"  />
   <a href="mailto:gabrieltadamaceno@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=gabrieltadamaceno@gmail.com&color=db1d04&logoColor=white&labelColor=D14836&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
 </div>
 
