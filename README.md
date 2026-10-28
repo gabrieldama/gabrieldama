@@ -1,69 +1,41 @@
-<h1 align="left">Eai! De boa ?</h1>
+# Fala! Eu sou o Gabriel 👋
 
-###
+Tenho 21 anos, moro em Osasco/SP e sou **Jovem Talento na Libbs**, onde trabalho com análise de dados (Power BI) e automação de processos. Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Desenvolvimento de Sistemas no Senai Cotia.
 
-<h3 align="left">Meu nome é Gabriel, tenho 21 anos e moro em Osasco/SP.</h3>
+Gosto de construir coisas do começo ao fim: da interface ao back-end.
 
-###
+## 🔭 Em que estou focado
 
-<h1 align="left">Sobre mim:</h1>
+- Desenvolvimento full stack com React, React Native (Expo), TypeScript e Java
+- Criação e consumo de APIs REST
+- Dashboards em Power BI e automação de processos no trabalho
 
-###
+## 🚀 Projetos em destaque
 
-<h4 align="left">✨ Tenho um grande fascínio por tecnologias e vontade de aprender.<br>📚 Cursando Análise e Desenvolvimento de Sistemas<br>🎯 Qualidades: Sou paciente, analista e sereno.<br>🎲 Me interesso por Desenvolvimento de sistemas, design e criação de páginas Web.</h4>
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [aurafy-app](https://github.com/gabrieldama/aurafy-app) | App mobile de player de música inspirado no Spotify | Expo, React Native, TypeScript |
+| [aurafy-api](https://github.com/gabrieldama/aurafy-api) | API que fornece músicas e playlists para o Aurafy | Java |
+| [RPGMaster](https://github.com/gabrieldama/RPGMaster) | Site para RPG de mesa ([demo](https://rpg-master-wine.vercel.app)) | React, Vite, Vercel |
+| [e-commerce](https://github.com/gabrieldama/e-commerce) | Site de e-commerce | Web |
 
-###
+## 🛠️ Tecnologias
 
-<h2 align="left">Tecnologias Utilizadas:</h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-###
+## 📫 Contato
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h2 align="left">Estatísticas:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldama&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldama&radius=16&theme=nightowl&area=true&order=5&hide_title=false&hide_border=true" height="253" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Redes Sociais:</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-teixeira-alves-1353632b2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linktree logo"  />
-  <a href="mailto:gabrieltadamaceno@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=gabrieltadamaceno@gmail.com&color=db1d04&logoColor=white&labelColor=D14836&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teixeira-alves-1353632b2/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieltadamaceno@gmail.com)
