@@ -18,7 +18,7 @@ Gosto de construir coisas do começo ao fim: da interface ao back-end.
 | [aurafy-api](https://github.com/gabrieldama/aurafy-api) | API que fornece músicas e playlists para o Aurafy | Java |
 | [RPGMaster](https://github.com/gabrieldama/RPGMaster) | Site para RPG de mesa ([demo](https://rpg-master-wine.vercel.app)) | React, Vite, Vercel |
 | [portfolio](https://github.com/gabrieldama/portfolio) | Portfólio pessoal com tema inspirado em Undertale ([demo](https://gabrieldama.github.io/portfolio/)) | HTML, CSS |
-| [ReceitaAPI](https://github.com/gabrieldama/ReceitaAPI) | API com CRUD completo de receitas | Java, Maven |
+| [ReceitaAPI](https://github.com/gabrieldama/ReceitaAPI) | API REST para cadastrar e consultar receitas  | Java, Maven |
 | [senaiflix](https://github.com/gabrieldama/senaiflix) | App com telas em componentes e serviço de API | TypeScript |
 
 ## 🛠️ Tecnologias
