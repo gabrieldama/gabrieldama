@@ -1,6 +1,6 @@
 # Fala! Eu sou o Gabriel 👋
 
-Tenho 21 anos, moro em Osasco/SP e sou **Jovem Talento na Libbs**, onde trabalho com análise de dados (Power BI) e automação de processos. Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Desenvolvimento de Sistemas no Senai Cotia.
+Tenho 22 anos, moro em Osasco/SP e sou **Jovem Talento na Libbs**, onde trabalho com análise de dados (Power BI) e automação de processos. Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Desenvolvimento de Sistemas no Senai Cotia.
 
 Gosto de construir coisas do começo ao fim: da interface ao back-end.
 
@@ -42,7 +42,6 @@ Gosto de construir coisas do começo ao fim: da interface ao back-end.
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieldama&show_icons=true&theme=nightowl&locale=pt-br&hide_border=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldama&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true)
 
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=gabrieldama&radius=16&theme=nightowl&area=true&hide_border=true)
 
 ## 📫 Contato
 
