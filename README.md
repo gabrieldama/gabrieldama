@@ -35,6 +35,13 @@ Gosto de construir coisas do começo ao fim: da interface ao back-end.
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 📊 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieldama&show_icons=true&theme=nightowl&locale=pt-br&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldama&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true)
+
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=gabrieldama&radius=16&theme=nightowl&area=true&hide_border=true)
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teixeira-alves-1353632b2/)
